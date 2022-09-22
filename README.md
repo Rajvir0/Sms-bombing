@@ -1,5 +1,8 @@
 # Sms-bombing
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Free+SmS+Bombing❤️)](https://git.io/typing-svg)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=SmS+Bombing+Tools%2C+By+❤️রাজ❤️)](https://git.io/typing-svg)
 
 
