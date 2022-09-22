@@ -9,6 +9,6 @@
 ## Installation Command:
 
 * `git clone https://github.com/Rajvir0/Sms-bombing`
-* `cd Sms-bomning`
+* `cd Sms-bombing`
 
 #### > Run : `New-SmS-Bomber.py`
