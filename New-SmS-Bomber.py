@@ -12,7 +12,7 @@ amount = int(input("Enter Your Amount: "))
 #Our First API Function
 def api1():
     #API URL
-    url = "https://prod-api.viewlift.com/identity/signup?site=hoichoitv"
+    url = "https://api.sms-activate.org/stubs/handler_api.php"
     
     #API Data
     data = {
@@ -36,7 +36,7 @@ def api1():
 #Our Second API Function
 def api2():
     #API URL
-    url = "https://api.bongo-solutions.com/auth/api/login/send-otp"
+    url = "https://api.sms-activate.org/stubs/handler_api.php"
     
     #API Data
     data = {
